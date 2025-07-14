@@ -1,50 +1,61 @@
 # 👋 Hi, I'm Wis
 
-💼 Business & Data Professional | 🛡️ Cybersecurity Learner  
-🔍 Exploring the intersection of data, business operations, and digital security
-
----
-
 ## 👩‍💻 About Me
 
-With over a decade of experience across **real estate, data analysis, and customer operations**, I’m now developing hands-on cybersecurity skills with a focus on **threat intelligence and OSINT**.
+With a strong foundation in **real estate business development, customer operations, and data analytics**, I'm now expanding into the world of **cybersecurity**—bringing a strategic, people-first lens to technical problem solving.
 
-I bring a business-savvy approach to understanding security risks in real-world environments.
+I’m passionate about understanding how **threats impact real systems**, and how business and security teams can collaborate to reduce risk and improve resilience.
 
----
-
-## 🧩 Featured Projects
-
-| Project | Description | Tools Used |
-|--------|-------------|------------|
-| [APT33 Threat Intel Case Study](https://github.com/YOUR-USERNAME/apt33-threat-intel-project) | Passive recon, attack simulation, and MITRE ATT&CK mapping using a real university target | theHarvester, Shodan, crt.sh, MITRE |
-| [Cyber Learning Log](#) | Documentation of my training, practice labs, and career pivot journal | Markdown, PDF, GitHub |
+🛠 I work across sectors—not switching industries, but building bridges between them.
 
 ---
 
-## 🔧 Core Skill Areas
+## 🚀 Highlights & Projects
 
-- 🛡️ **Cybersecurity:** Threat intelligence · MITRE ATT&CK · OSINT tools · Reconnaissance · Risk reporting  
-- 📊 **Data Analytics:** Excel · Power BI · PostgreSQL  
-- 🤝 **Business Operations:** Customer strategy · Digital systems · CRM workflows
+| 📁 Project | 🌐 Description | 🧰 Tools |
+|-----------|----------------|----------|
+| [APT33 Threat Intel Case Study](https://github.com/wis-beau/apt33-threat-intel-project) | Simulated cyber attack on a UK university using MITRE ATT&CK + passive OSINT | MITRE, theHarvester, Shodan, crt.sh |
+| [GitHub Exposure Audit (Education Sector)](#) | OSINT analysis of public code & credentials for security risks | GitHub, Commit History, Markdown |
+| [Cybersecurity CV & Learning Journey](#) | Ongoing record of hands-on projects, tools, and achievements | Markdown, PDF |
+
+---
+
+## 🔧 Skills Overview
+
+### 🛡️ Cybersecurity
+- Threat Intelligence (CTI)
+- MITRE ATT&CK Mapping
+- OSINT & Passive Recon
+- Basic SOC/IR knowledge
+
+### 📊 Data & Analytics
+- Excel (Power Query, PivotTables)
+- Power BI Dashboards
+- PostgreSQL · CRM · Google Sheets
+
+### 🧠 Business Strengths
+- Strategic thinking across functions
+- Digital transformation projects
+- Stakeholder collaboration
+- Real estate and customer operations
 
 ---
 
 ## 🌱 Current Learning Focus
 
-- MITRE ATT&CK + threat actor mapping  
-- Cybersecurity report writing  
-- OSINT tools and case study simulations  
-- Cloud and web security basics
+- CTI workflows & open-source tooling  
+- Security reporting & portfolio building  
+- Entry-level SOC practices  
+- Cyber + data roles that align with business risk
 
 ---
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
-- 📂 [GitHub Projects](https://github.com/YOUR-USERNAME?tab=repositories)
+- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+- 📂 [My Repositories](https://github.com/wis-beau?tab=repositories)
 
 ---
 
-> “Security is not just technical—it’s strategic. I’m learning to bridge both.”
+> "I believe cybersecurity isn’t just technical—it’s business-critical. I’m here to learn, build, and bridge that gap."
 
