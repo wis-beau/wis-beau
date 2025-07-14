@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-With over a decade of experience across **real estate, data analysis, and customer operations**, I’m now developing hands-on cybersecurity skills with a focus on **threat intelligence and OSINT**.
+With over a decade of experience across **real estate, data analysis, travel and tourism and customer operations**, I’m now developing hands-on cybersecurity skills with a focus on **threat intelligence and OSINT**.
 
 I bring a business-savvy approach to understanding security risks in real-world environments.
 
