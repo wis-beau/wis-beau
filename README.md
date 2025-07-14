@@ -1,4 +1,3 @@
-<!--
 # 👋 Hi, I'm Wis-beau
 
 💼 Business & Data Professional | 🛡️ Cybersecurity Learner  
@@ -49,4 +48,3 @@ I bring a business-savvy approach to understanding security risks in real-world 
 
 > “Security is not just technical—it’s strategic. I’m learning to bridge both.”
 
--->
