@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wis-beau
+# 👋 Hi, I'm Wis
 
 💼 Business & Data Professional | 🛡️ Cybersecurity Learner  
 🔍 Exploring the intersection of data, business operations, and digital security
