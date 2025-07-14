@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Wis
-
-## 👩‍💻 About Me
+## 👩‍💻 About Me 👋
 
 With a strong foundation in **real estate business development, customer operations, and data analytics**, I'm now expanding into the world of **cybersecurity**—bringing a strategic, people-first lens to technical problem solving.
 
@@ -52,7 +50,7 @@ I’m passionate about understanding how **threats impact real systems**, and ho
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+- 🔗 [https://www.linkedin.com/in/marketingreach4biz/
 - 📂 [My Repositories](https://github.com/wis-beau?tab=repositories)
 
 ---
