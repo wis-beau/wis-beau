@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Wislene Beaunissant
-
+# 👋 Hi, I'm Wis
 💼 Business & Data Professional | 🛡️ Cybersecurity Learner  
 🔍 Exploring the intersection of data, business operations, and digital security
 
