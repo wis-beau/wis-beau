@@ -16,7 +16,7 @@ I bring a business-savvy approach to understanding security risks in real-world 
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| [APT33 Threat Intel Case Study](https://github.com/YOUR-USERNAME/apt33-threat-intel-project) | Passive recon, attack simulation, and MITRE ATT&CK mapping using a real university target | theHarvester, Shodan, crt.sh, MITRE |
+| [APT33 Threat Intel Case Study](https://github.com/wis-beau/cti-investigation-manchester-university) | Passive recon, attack simulation, and MITRE ATT&CK mapping using a real university target | theHarvester, Shodan, crt.sh, MITRE |
 | [Cyber Learning Log](#) | Documentation of my training, practice labs, and career pivot journal | Markdown, PDF, GitHub |
 
 ---
