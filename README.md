@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Wis  
-💼 **Business & Data Professional** 
-🛡️ **Cybersecurity Analyst in Training**  
-🔍 Building skills in **SOC Analysis, Threat Intelligence, Penetration Testing, and GRC** 
-— learning in public through hands-on labs & case studies.
+💼 **Business & Data Professional** → 🛡️ **Cybersecurity Analyst in Training**  
+🔍 Building skills in **SOC Analysis, Threat Intelligence, Penetration Testing, and GRC** — learning in public through hands-on labs & case studies.
 
 ---
 
