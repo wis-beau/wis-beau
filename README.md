@@ -1,49 +1,61 @@
-# 👋 Hi, I'm Wis
-💼 Business & Data Professional | 🛡️ Cybersecurity Learner  
-🔍 Exploring the intersection of data, business operations, and digital security
+# 👋 Hi, I'm Wis  
+💼 **Business & Data Professional** → 🛡️ **Cybersecurity Analyst in Training**  
+🔍 Building skills in **SOC Analysis, Threat Intelligence, Penetration Testing, and GRC** — learning in public through hands-on labs & case studies.
 
 ---
 
 ## 👩‍💻 About Me
 
-With over a decade of experience across **real estate, data analysis, travel and tourism, social media marketing and customer operations**, I’m now developing hands-on cybersecurity skills with a focus on **threat intelligence and OSINT**.
+I’m a multi-skilled professional with over a decade of experience in **real estate, data analysis, travel & tourism, social media marketing, and customer operations**.  
 
-I bring a business-savvy approach to understanding security risks in real-world environments.
+Today, I’m expanding into **cybersecurity**, combining my business acumen with **technical security skills** to better understand and mitigate digital risks. My current focus is on **threat intelligence, OSINT, penetration testing, and security governance**.
+
+---
+
+## 🚀 Cybersecurity Learning Path
+
+I’m currently completing a full-spectrum cybersecurity course covering:
+
+- **SOC Analysis:** Threat detection, incident response, phishing investigations  
+- **Threat Intelligence:** Lifecycle, OSINT, malware analysis, threat actor profiling, intel integration  
+- **Penetration Testing:** Reconnaissance, vulnerability assessment, exploitation (SQLi, XSS), post-exploitation  
+- **Governance, Risk, and Compliance (GRC):** Risk management, policy development, security awareness training  
 
 ---
 
 ## 🧩 Featured Projects
 
-| Project | Description | Tools Used |
-|--------|-------------|------------|
-| [APT33 Threat Intel Case Study](https://github.com/wis-beau/cti-investigation-manchester-university) | Passive recon, attack simulation, and MITRE ATT&CK mapping using a real university target | theHarvester, Shodan, crt.sh, MITRE |
-| [Cyber Learning Log](#) | Documentation of my training, practice labs, and career pivot journal | Markdown, PDF, GitHub |
+| Project | Description | Tools / Techniques |
+|---------|-------------|--------------------|
+| [APT33 Threat Intel Case Study](https://github.com/wis-beau/cti-investigation-manchester-university) | Passive recon + MITRE ATT&CK mapping against a simulated university target | theHarvester · Shodan · crt.sh · MITRE ATT&CK |
+| [Threat Intelligence Lifecycle Notes](https://github.com/wis-beau/Threat_Intelligence_Lifecycle) | Documenting the intel cycle, OSINT workflows, and malware profiling exercises | Markdown · OSINT Framework · MISP |
+| [Pen Testing – Travel Sector Lab](https://github.com/wis-beau/penetration-testing-series-travel-sector) | Recon, vulnerability scanning, and simulated exploitation in a sector-specific lab | Nmap · Burp Suite · SQLMap |
 
 ---
 
-## 🔧 Core Skill Areas
+## 🔧 Core Skills (Growing Daily)
 
-- 🛡️ **Cybersecurity:** Threat intelligence · MITRE ATT&CK · OSINT tools · Reconnaissance · Risk reporting  
-- 📊 **Data Analytics:** Excel · Power BI · PostgreSQL  
-- 🤝 **Business Operations:** Customer strategy · Digital systems · CRM workflows
+- **Cybersecurity:** SOC workflows · Threat Intelligence · OSINT tools · Pen Testing basics · Risk reporting  
+- **Technical:** MITRE ATT&CK mapping · IOC analysis · Reconnaissance · Incident documentation  
+- **Data & Business:** Power BI · PostgreSQL · CRM systems · Customer strategy  
 
 ---
 
-## 🌱 Current Learning Focus
+## 🌱 Current Focus
 
-- MITRE ATT&CK + threat actor mapping  
-- Cybersecurity report writing  
-- OSINT tools and case study simulations  
-- Cloud and web security basics
+- Completing **Penetration Testing** module: vulnerability assessment, exploitation, privilege escalation  
+- Expanding **OSINT tool mastery** and intel report writing  
+- Building **portfolio-ready cybersecurity case studies**  
+- Applying **risk management principles** to real-world business contexts
 
 ---
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/marketingreach4biz)
-- 📂 [GitHub Projects](https://github.com/YOUR-USERNAME?tab=repositories)
+- 🔗 [LinkedIn](https://linkedin.com/in/marketingreach4biz)  
+- 📂 [GitHub Projects](https://github.com/wis-beau?tab=repositories)  
+- 🌐 [10Alytics.io](https://www.10alytics.io/)  
 
 ---
 
-> “Security is not just technical—it’s strategic. I’m learning to bridge both.”
-
+> “Cybersecurity is more than just tech — it’s strategy, analysis, and clear communication. I’m learning to bridge them all.”
