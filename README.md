@@ -28,7 +28,7 @@ I’m currently completing a full-spectrum cybersecurity course covering:
 | Project | Description | Tools / Techniques |
 |---------|-------------|--------------------|
 | [APT33 Threat Intel Case Study](https://github.com/wis-beau/cti-investigation-manchester-university) | Passive recon + MITRE ATT&CK mapping against a simulated university target | theHarvester · Shodan · crt.sh · MITRE ATT&CK |
-| [Threat Intelligence Lifecycle Notes](https://github.com/wis-beau/Threat_Intelligence_Lifecycle) | Documenting the intel cycle, OSINT workflows, and malware profiling exercises | Markdown · OSINT Framework · MISP |
+| [Threat Intelligence Lifecycle Notes](https://github.com/wis-beau/Threat_Intelligence_Lifecycle) | Documenting the intel cycle, OSINT workflows, and malware profiling exercises | OSINT Framework · MISP |
 | [Pen Testing – Travel Sector Lab](https://github.com/wis-beau/penetration-testing-series-travel-sector) | Recon, vulnerability scanning, and simulated exploitation in a sector-specific lab | Nmap · Burp Suite · SQLMap |
 
 ---
